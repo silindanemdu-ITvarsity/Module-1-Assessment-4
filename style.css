@@ -1,0 +1,34 @@
+table{
+	
+    font-family: Helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+    background-color: rgb(40, 255, 11);
+    margin-left:300px ;
+    width: 900px;
+    border:2px solid red;
+    border-radius:3px;
+    }
+th{
+    font-weight: 900;
+    background-color: rgb(255, 255, 255);
+    color: #8dc5ae;
+}
+td{
+    font-size: 17px;
+    color: rgb(98, 32, 204);
+}
+h2{
+    font-family:Impact,fantasy;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(177, 62, 62);
+    font-style: elephant;
+    background-color: whiteSmoke;
+      
+}
+body {
+ background-color: #ffffff;
+}
